@@ -51,7 +51,7 @@ const Navbar = ({ activeCategory = "All Products", setActiveCategory = () => {} 
             </Link>
           </div>
 
-          {/* Desktop Menuu */}
+          {/* Desktop menu */}
           <div className="hidden md:flex items-center space-x-4 sm:space-x-6 md:space-x-8 text-xs sm:text-sm text-black">
             <a href="#" className="hover:text-red-500 font-normal">Lontar Sugar</a>
 
